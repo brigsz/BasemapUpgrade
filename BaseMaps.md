@@ -2,8 +2,6 @@
 1. [ ] http://8.22.12.87/webmap/index.html  
 **email sent 6/30**
 1. [ ] http://davismaps.dyndns.org/flexView/Fog%20Assignments/
-1. [ ] http://docs.jquerygeo.com/examples/utah/index.html  
-**working with ryan on this. sent pull requests to update**
 1. [ ] http://historicbuildings.utah.gov/swf/PublicViewer/index.swf
 1. [ ] http://platmap.trustlands.utah.gov/  
 **i've been working with barry on this**
