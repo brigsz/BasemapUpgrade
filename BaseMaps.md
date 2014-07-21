@@ -3,10 +3,12 @@
 **email sent 6/30**
 1. [ ] http://beckylorig.weebly.com/
 1. [ ] http://davismaps.dyndns.org/flexView/Fog%20Assignments/
-1. [ ] http://historicbuildings.utah.gov/swf/PublicViewer/index.swf
-3. [ ] https://preservationpro.at.utah.gov/literature/index
+1. [x] http://historicbuildings.utah.gov/swf/PublicViewer/index.swf  
+**talked to katie and made the changes to the conf files in test.**
+3. [x] https://preservationpro.at.utah.gov/literature/index  
+**talked to katie and made the changes to the conf files in test.**
 1. [ ] http://platmap.trustlands.utah.gov/  
-**i've been working with barry on this**
+**i've been working with barry on this. trying to get him to throw an caching policy**
 1. [ ] http://uplan.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=2dd8e677b3914165a8d8b2c22979d23a
 1. [ ] http://uplan.maps.arcgis.com/apps/OnePane/basicviewer/index.html?appid=e2f0216b81b14fe0b41bfe628b6dbf9e
 1. [ ] http://uplan.maps.arcgis.com/apps/PublicGallery/map.html?appid=eab60f3437d3478f91f5f90816ddacef&group=3b0d54153dbc46709a38b0cdc44c58e0&webmap=3b09f82f90a64933a152120e0c0a25e6
@@ -28,6 +30,7 @@
 1. [ ] https://linearbench.com/lbe/index.html
 2. [ ] http://maps.horrocks.com/midwaygis/Flex/Index.aspx
 1. [ ] http://maps.slcgov.com/slcarablelandmap/arablelandmap.html
+**sent email to kevin 7/21**
 1. [ ] http://iris.utah.gov/iris/public/map.do
 2. [ ] http://mountainland.org/maps/trails.php
 3. [ ] http://ogden.maps.arcgis.com/home/webmap/viewer.html?webmap=8bb3c51e4a17449dad3be7c74ab6c55f
